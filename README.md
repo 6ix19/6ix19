@@ -87,10 +87,10 @@
 
 <div align="center">
 
-<a href="https://github.com/6ix19">
+<a href="https://github.com/6ix19/U">
   <img src="https://github-readme-stats.vercel.app/api?username=6ix19&show_icons=true&theme=radical&border_radius=10&hide_border=false&hide_title=false" width="45%" />
 </a>
-<a href="https://github.com/6ix19">
+<a href="https://github.com/6ix19/UBIP">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=6ix19&layout=compact&theme=radical&hide_border=false&langs_count=8&border_radius=10" width="45%" />
 </a>
 
